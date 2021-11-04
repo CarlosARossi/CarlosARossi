@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello world! I'm Carlos 👋
+
+- 🔭 I’m currently working on my first e-commerce named CricamaPlants (Turn arround: https://proyecto-cricamaplants.herokuapp.com/)
+- 🌱 I’m currently learning node.js and REACT
+
 
 <!--
 **CarlosARossi/CarlosARossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
