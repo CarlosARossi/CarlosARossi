@@ -1,7 +1,7 @@
-### Hello world! I'm Carlos 👋
+### Hello world! I'm Carlos (Charly) 🐧
 
-- 🔭 I’m currently working on my first e-commerce named CricamaPlants (Turn arround: https://proyecto-cricamaplants.herokuapp.com/)
-- 🌱 I’m currently learning node.js and REACT
+- 🌱 I’m currently learning python and datascience
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rossi-carlos/)
 
 
 <!--
